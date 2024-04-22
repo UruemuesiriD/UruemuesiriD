@@ -1,6 +1,5 @@
 # Hi there, I'm Siri! 👋 
-
-### Electrical Engineer by degree, Solutions Architect by choice.
+Electrical Engineer by degree, Solutions Architect by choice.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=UruemuesiriD&theme=radical&hide_border=false&include_all_commits=true&count_private=true&count" />
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=UruemuesiriD&theme=radical&hide_border=false" />
